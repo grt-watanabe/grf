@@ -1,4 +1,5 @@
 <?php
+# comment...
 header("Content-type: text/html; charset=UTF-8");
 require_once('basic.inc.php');
 
